@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+optimization_venv/
+.matplotlib/
+__pycache__/
+*.py[cod]
